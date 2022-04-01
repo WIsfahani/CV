@@ -1,15 +1,17 @@
 ## Curriculum Vitae 
 
-## WAFA FATIMA ISFAHANI						       
+## WAFA FATIMA ISFAHANI			
+
 wafa.isfahany@gmail.com
-Phone: +1 347-679-4354
-ORCID¬¬¬¬¬: 0000-0003-1093-8118
+ORCID: 0000-0003-1093-8118
+
 ### Education
 
 MI, Library Information Sciences and Data Sciences, Rutgers University - New Brunswick, 2022
 MA, Near Eastern Studies, Princeton University, 2019
-Bsc, Political Science, Institute of Business Administration (Karachi), 2017¬¬¬
-Academic Research Work
+Bsc, Political Science, Institute of Business Administration (Karachi), 2017
+
+### Academic Research Work
 Digital Humanities Research Project: 
 “Expanding Islamicate Digital Humanities: A Network Analysis of the Sufi Naqshbandi Order” (Current)
 
