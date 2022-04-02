@@ -1,8 +1,10 @@
+
 ## Curriculum Vitae 
 
 ## WAFA FATIMA ISFAHANI			
 
 wafa.isfahany@gmail.com
+
 ORCID: 0000-0003-1093-8118
 
 ### Education
@@ -94,7 +96,8 @@ Graduate Student Assistant | University Administrative Fellow (2018-2019)
 #### Field Research and Training
 
 2017-2018	New Jersey, USA (5months)
-Organized and catalogued body of work for a specified research project for Professor Muhammad Qasim Zaman
+Organized and catalogued body of work for a research project with Professor Muhammad Qasim Zaman
+
 2016	Karachi, Pakistan (4 months)
 Conducted archival research on the history of land ownership and transfer of power in Punjab for Dr. Newal Osman
 
