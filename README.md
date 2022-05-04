@@ -9,9 +9,11 @@ ORCID: 0000-0003-1093-8118
 
 ### Education
 
-MI, Library Information Sciences and Data Sciences, Rutgers University - New Brunswick, 2022
-MA, Near Eastern Studies, Princeton University, 2019
-Bsc, Political Science, Institute of Business Administration (Karachi), 2017
+MI, Library Information Sciences and Data Sciences, Rutgers University - New Brunswick, May 2022
+
+MA, Near Eastern Studies, Princeton University, May 2019
+
+Bsc, Political Science, Institute of Business Administration (Karachi), May 2017
 
 ### Academic Research Work
 Digital Humanities Research Project: 
